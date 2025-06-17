@@ -1,0 +1,144 @@
+2024-05-09 06:50:17 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 06:50:17 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-05-09 06:50:18 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-05-09 06:50:18 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-05-09 06:50:19 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-05-09 06:50:19 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-05-09 06:50:19 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 06:50:23 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-05-09 06:50:25 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-05-09 07:07:24 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 07:07:24 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-05-09 07:07:24 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-05-09 07:07:24 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-05-09 07:07:26 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-05-09 07:07:26 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-05-09 07:07:26 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 07:07:30 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-05-09 07:07:32 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2024-05-09 07:10:46 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 07:10:46 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-05-09 07:10:47 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-05-09 07:10:47 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-05-09 07:10:48 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-05-09 07:10:48 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-05-09 07:10:48 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 07:10:53 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-05-09 07:10:55 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2025-06-17 06:00:43 INFO  TC001_AccountRegistrationTest:13 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-17 06:00:43 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link.. 
+2025-06-17 06:00:57 INFO  TC001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2025-06-17 06:00:57 INFO  TC001_AccountRegistrationTest:25 - Providing customer details...
+2025-06-17 06:01:00 INFO  TC001_AccountRegistrationTest:39 - Validating expected message..
+2025-06-17 06:01:11 INFO  TC001_AccountRegistrationTest:53 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-17 06:12:00 INFO  TC001_AccountRegistrationTest:13 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-17 06:12:01 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link.. 
+2025-06-17 06:12:12 ERROR TC001_AccountRegistrationTest:48 - Test failed: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (5676f5200f3c9f6f074bf6c9a07b0f00)] -> xpath: (//a[normalize-space()='Register' and contains(@href, 'ninja')])[1]] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.104, chrome: {chromedriverVersion: 137.0.7151.70 (dfa4dc56b2ab..., userDataDir: C:\Users\tasnia\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63728/devtoo..., se:cdpVersion: 137.0.7151.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5676f5200f3c9f6f074bf6c9a07b0f00
+2025-06-17 06:12:12 INFO  TC001_AccountRegistrationTest:53 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-17 06:12:16 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-06-17 06:12:27 ERROR TC002_LoginTest:38 - Test passed!
+2025-06-17 06:12:27 INFO  TC002_LoginTest:42 - ****** Finished TC_002_LoginTest *****
+2025-06-17 06:16:10 INFO  TC001_AccountRegistrationTest:13 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-17 06:16:10 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link.. 
+2025-06-17 06:16:10 ERROR TC001_AccountRegistrationTest:48 - Test failed: element not interactable: https://tutorialsninja.com/demo/index.php?route=account/register has no size and location
+  (Session info: chrome=137.0.7151.104)
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1206df9478144ba1a1047a3cb6ddeb64, actions {actions=[org.openqa.selenium.interactions.Sequence@263bbfeb]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.104, chrome: {chromedriverVersion: 137.0.7151.70 (dfa4dc56b2ab..., userDataDir: C:\Users\tasnia\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64161}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64161/devtoo..., se:cdpVersion: 137.0.7151.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1206df9478144ba1a1047a3cb6ddeb64
+2025-06-17 06:16:10 INFO  TC001_AccountRegistrationTest:53 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-17 06:16:15 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-06-17 06:16:27 ERROR TC002_LoginTest:38 - Test passed!
+2025-06-17 06:16:27 INFO  TC002_LoginTest:42 - ****** Finished TC_002_LoginTest *****
+2025-06-17 06:18:51 INFO  TC001_AccountRegistrationTest:13 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-17 06:18:52 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link.. 
+2025-06-17 06:18:53 INFO  TC001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2025-06-17 06:18:53 INFO  TC001_AccountRegistrationTest:25 - Providing customer details...
+2025-06-17 06:18:55 INFO  TC001_AccountRegistrationTest:39 - Validating expected message..
+2025-06-17 06:19:04 INFO  TC001_AccountRegistrationTest:53 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-17 06:19:08 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-06-17 06:19:19 ERROR TC002_LoginTest:38 - Test passed!
+2025-06-17 06:19:19 INFO  TC002_LoginTest:42 - ****** Finished TC_002_LoginTest *****
+2025-06-17 06:20:25 INFO  TC001_AccountRegistrationTest:13 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-17 06:20:25 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link.. 
+2025-06-17 06:20:26 INFO  TC001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2025-06-17 06:20:26 INFO  TC001_AccountRegistrationTest:25 - Providing customer details...
+2025-06-17 06:20:39 ERROR TC001_AccountRegistrationTest:48 - Test failed: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@value='Continue']"}
+  (Session info: chrome=137.0.7151.104)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4af7443975eaebf3ae8829b79a25a558, findElement {value=//input[@value='Continue'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.104, chrome: {chromedriverVersion: 137.0.7151.70 (dfa4dc56b2ab..., userDataDir: C:\Users\tasnia\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64827}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64827/devtoo..., se:cdpVersion: 137.0.7151.104, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4af7443975eaebf3ae8829b79a25a558
+2025-06-17 06:20:39 INFO  TC001_AccountRegistrationTest:53 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-17 06:20:43 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-06-17 06:20:54 ERROR TC002_LoginTest:38 - Test passed!
+2025-06-17 06:20:54 INFO  TC002_LoginTest:42 - ****** Finished TC_002_LoginTest *****
+2025-06-17 06:28:44 INFO  TC001_AccountRegistrationTest:13 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-17 06:28:44 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link.. 
+2025-06-17 06:28:45 INFO  TC001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2025-06-17 06:28:45 INFO  TC001_AccountRegistrationTest:25 - Providing customer details...
+2025-06-17 06:28:46 INFO  TC001_AccountRegistrationTest:39 - Validating expected message..
+2025-06-17 06:28:46 INFO  TC001_AccountRegistrationTest:44 - Test passed
+2025-06-17 06:28:46 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-17 06:28:50 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-06-17 06:29:01 ERROR TC002_LoginTest:42 - Test passed!
+2025-06-17 06:33:15 INFO  TC001_AccountRegistrationTest:13 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-17 06:33:15 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link.. 
+2025-06-17 06:33:15 INFO  TC001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2025-06-17 06:33:15 INFO  TC001_AccountRegistrationTest:25 - Providing customer details...
+2025-06-17 06:33:17 INFO  TC001_AccountRegistrationTest:39 - Validating expected message..
+2025-06-17 06:33:17 INFO  TC001_AccountRegistrationTest:44 - Test passed
+2025-06-17 06:33:17 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-17 06:33:20 INFO  TC002_LoginTest:16 - ****** Starting TC_002_LoginTest *****
+2025-06-17 06:33:21 INFO  TC002_LoginTest:35 - Test passed!
+2025-06-17 06:33:21 INFO  TC002_LoginTest:46 - ****** Finished TC_002_LoginTest *****
+2025-06-17 06:34:45 INFO  TC001_AccountRegistrationTest:13 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-17 06:34:45 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link.. 
+2025-06-17 06:34:45 INFO  TC001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2025-06-17 06:34:45 INFO  TC001_AccountRegistrationTest:25 - Providing customer details...
+2025-06-17 06:34:47 INFO  TC001_AccountRegistrationTest:39 - Validating expected message..
+2025-06-17 06:34:47 INFO  TC001_AccountRegistrationTest:44 - Test passed
+2025-06-17 06:34:47 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-17 06:34:50 INFO  TC002_LoginTest:16 - ****** Starting TC_002_LoginTest *****
+2025-06-17 06:34:51 INFO  TC002_LoginTest:35 - Test passed!
+2025-06-17 06:34:51 INFO  TC002_LoginTest:46 - ****** Finished TC_002_LoginTest *****
+2025-06-17 06:36:00 INFO  TC001_AccountRegistrationTest:13 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-17 06:36:00 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link.. 
+2025-06-17 06:36:00 INFO  TC001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2025-06-17 06:36:00 INFO  TC001_AccountRegistrationTest:25 - Providing customer details...
+2025-06-17 06:36:02 INFO  TC001_AccountRegistrationTest:39 - Validating expected message..
+2025-06-17 06:36:02 INFO  TC001_AccountRegistrationTest:44 - Test passed
+2025-06-17 06:36:02 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-17 06:36:05 INFO  TC002_LoginTest:16 - ****** Starting TC_002_LoginTest *****
+2025-06-17 06:36:06 INFO  TC002_LoginTest:35 - Test passed!
+2025-06-17 06:36:06 INFO  TC002_LoginTest:46 - ****** Finished TC_002_LoginTest *****
+2025-06-17 06:37:04 INFO  TC001_AccountRegistrationTest:13 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-17 06:37:05 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link.. 
+2025-06-17 06:37:05 INFO  TC001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2025-06-17 06:37:05 INFO  TC001_AccountRegistrationTest:25 - Providing customer details...
+2025-06-17 06:37:07 INFO  TC001_AccountRegistrationTest:39 - Validating expected message..
+2025-06-17 06:37:07 INFO  TC001_AccountRegistrationTest:44 - Test passed
+2025-06-17 06:37:07 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-17 06:37:09 INFO  TC002_LoginTest:16 - ****** Starting TC_002_LoginTest *****
+2025-06-17 06:37:11 INFO  TC002_LoginTest:35 - Test passed!
+2025-06-17 06:37:11 INFO  TC002_LoginTest:46 - ****** Finished TC_002_LoginTest *****
+2025-06-17 06:37:59 INFO  TC001_AccountRegistrationTest:13 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-17 06:37:59 INFO  TC001_AccountRegistrationTest:18 - Clicked on MyAccount Link.. 
+2025-06-17 06:37:59 INFO  TC001_AccountRegistrationTest:21 - Clicked on Register Link.. 
+2025-06-17 06:37:59 INFO  TC001_AccountRegistrationTest:25 - Providing customer details...
+2025-06-17 06:38:01 INFO  TC001_AccountRegistrationTest:39 - Validating expected message..
+2025-06-17 06:38:01 INFO  TC001_AccountRegistrationTest:44 - Test passed
+2025-06-17 06:38:01 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-17 06:38:03 INFO  TC002_LoginTest:16 - ****** Starting TC_002_LoginTest *****
+2025-06-17 06:38:05 INFO  TC002_LoginTest:35 - Test passed!
+2025-06-17 06:38:05 INFO  TC002_LoginTest:46 - ****** Finished TC_002_LoginTest *****
